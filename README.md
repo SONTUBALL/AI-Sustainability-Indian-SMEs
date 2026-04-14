@@ -10,7 +10,7 @@ Objectives:
 3. Compare AI vs Non-AI SMEs
 4. Evaluate model performance using Confusion Matrix
 
-Tools and Technologies: Python, SQL, Power BI, Excel, and Machine Learning (Supervised and Unsupervised Learning)
+Tools and Technologies: Python, SQL, Power BI, Excel, Statistics, and Machine Learning (Supervised and Unsupervised Learning)
   
 Dataset: SME sustainability dataset.
 
