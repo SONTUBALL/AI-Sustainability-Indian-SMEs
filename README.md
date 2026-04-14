@@ -17,6 +17,7 @@ Dataset: SME sustainability dataset.
 Key Insights:
 AI adoption improves sustainability efficiency
 
-Dataset Preview
-<img width="1107" height="552" alt="image" src="https://github.com/user-attachments/assets/e3dedb24-b5b2-47e2-a7d1-19737c1f94e5" />
+Dataset Preview:
+
+<img width="906" height="489" alt="image" src="https://github.com/user-attachments/assets/e6b9bac3-8256-4f27-9b49-1cccf516a6d5" />
 
