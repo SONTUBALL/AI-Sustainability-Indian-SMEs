@@ -21,3 +21,21 @@ Dataset Preview:
 
 <img width="906" height="489" alt="image" src="https://github.com/user-attachments/assets/e6b9bac3-8256-4f27-9b49-1cccf516a6d5" />
 
+Results Preview:
+<img width="1243" height="800" alt="image" src="https://github.com/user-attachments/assets/bf50ea63-8276-48e6-a383-1615fd43fe58" />
+
+<img width="1533" height="1191" alt="image" src="https://github.com/user-attachments/assets/b23a21a0-5472-4670-99f2-9ac744cce435" />
+
+Sustainability Indicators:
+<img width="1134" height="1115" alt="image" src="https://github.com/user-attachments/assets/e7cb5a65-de5f-411b-b316-e690f6d5de26" />
+<img width="1511" height="1076" alt="image" src="https://github.com/user-attachments/assets/3d9cc017-4215-4068-a22b-d4b58085f5cf" />
+
+Machine Learning Results:
+
+<img width="2106" height="1206" alt="image" src="https://github.com/user-attachments/assets/436ec172-d709-4771-84ed-308228dfc7fe" />
+<img width="1249" height="894" alt="image" src="https://github.com/user-attachments/assets/771d06d8-3202-4f75-9510-4d53241a5c04" />
+<img width="1528" height="1076" alt="image" src="https://github.com/user-attachments/assets/64f391f6-ab44-448a-95a2-a61cb1007860" />
+
+
+
+
